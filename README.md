@@ -18,15 +18,15 @@ Simple and intuitive UI using dropdown menus for ease of use.
 
 # Predefined Activities:
 
-Wake up
-Go to gym
-Breakfast
-Meetings
-Lunch
-Quick nap
-Go to library
-Dinner
-Go to sleep
+Wake up<br>
+Go to gym<br>
+Breakfast<br>
+Meetings<br>
+Lunch<br>
+Quick nap<br>
+Go to library<br>
+Dinner<br>
+Go to sleep<br>
 
 # Tech Stack
 ###### Backend: Spring Boot
