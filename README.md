@@ -1,9 +1,9 @@
-#Overview
+# Overview
 
 
 This is a simple Reminder Application built using Spring Boot with a UI based on JSP. The application allows users to schedule daily activities and be reminded through a sound/chime when the scheduled time is reached. It supports selecting the day of the week, time, and a list of predefined activities through dropdown menus.
 
-#Features
+# Features
 Schedule daily activities from a predefined list.
 Choose the day of the week and time for each activity.
 A sound/chime notification plays when the scheduled time is reached.
@@ -16,7 +16,7 @@ Simple and intuitive UI using dropdown menus for ease of use.
 ![Screenshot 2024-09-25 205428](https://github.com/user-attachments/assets/cd9b9f6c-de95-4817-8d69-d2addbc35824)
 
 
-#Predefined Activities:
+# Predefined Activities:
 
 Wake up
 Go to gym
@@ -28,20 +28,20 @@ Go to library
 Dinner
 Go to sleep
 
-#Tech Stack
-######Backend: Spring Boot
-######Frontend: JSP, HTML, CSS
-######Database: H2 (In-Memory)
-######Validation: Jakarta Bean Validation
-######JPA: Jakarta Persistence API
+# Tech Stack
+###### Backend: Spring Boot
+###### Frontend: JSP, HTML, CSS
+###### Database: H2 (In-Memory)
+###### Validation: Jakarta Bean Validation
+###### JPA: Jakarta Persistence API
 
-#How It Works
+# How It Works
 Users can select a day of the week, a time, and an activity from dropdown menus.             
 The selected reminder will be saved in the database.
 At the scheduled time, the app will play a sound/chime to notify the user of the activity.
 Users can view, add, or modify their reminders at any time through the UI.
 
-#Project Structure
+# Project Structure
 
 Controller: Handles the user requests and responses.
 Service: Contains the business logic, fetching reminders from the database and saving new ones.
