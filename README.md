@@ -32,8 +32,8 @@ Simple and intuitive UI using dropdown menus for ease of use.
 **Backend:** Spring Boot <br>
 **Frontend:** JSP, HTML, CSS<br>
 **Database:** H2 (In-Memory)<br>
-**Validation:**Jakarta Bean Validation<br>
-**JPA:**Jakarta Persistence API<br>
+**Validation:** Jakarta Bean Validation<br>
+**JPA:** Jakarta Persistence API<br>
 
 # How It Works
 Users can select a day of the week, a time, and an activity from dropdown menus.             
