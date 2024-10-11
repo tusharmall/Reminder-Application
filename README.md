@@ -29,11 +29,11 @@ Simple and intuitive UI using dropdown menus for ease of use.
 - Go to sleep<br>
 
 # Tech Stack
-**Backend:**<br> Spring Boot
-**Frontend:**<br> JSP, HTML, CSS
-**Database:**<br> H2 (In-Memory)
-**Validation:**<br>Jakarta Bean Validation
-**JPA:**<br> Jakarta Persistence API
+**Backend:** Spring Boot <br>
+**Frontend:** JSP, HTML, CSS<br>
+**Database:** H2 (In-Memory)<br>
+**Validation:**Jakarta Bean Validation<br>
+**JPA:**Jakarta Persistence API<br>
 
 # How It Works
 Users can select a day of the week, a time, and an activity from dropdown menus.             
