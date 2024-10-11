@@ -18,22 +18,22 @@ Simple and intuitive UI using dropdown menus for ease of use.
 
 # Predefined Activities:
 
-Wake up<br>
-Go to gym<br>
-Breakfast<br>
-Meetings<br>
-Lunch<br>
-Quick nap<br>
-Go to library<br>
-Dinner<br>
-Go to sleep<br>
+- Wake up<br>
+- Go to gym<br>
+- Breakfast<br>
+- Meetings<br>
+- Lunch<br>
+- Quick nap<br>
+- Go to library<br>
+- Dinner<br>
+- Go to sleep<br>
 
 # Tech Stack
-###### Backend: Spring Boot
-###### Frontend: JSP, HTML, CSS
-###### Database: H2 (In-Memory)
-###### Validation: Jakarta Bean Validation
-###### JPA: Jakarta Persistence API
+**Backend:** Spring Boot
+**Frontend:** JSP, HTML, CSS
+**Database:** H2 (In-Memory)
+**Validation:** Jakarta Bean Validation
+**JPA:** Jakarta Persistence API
 
 # How It Works
 Users can select a day of the week, a time, and an activity from dropdown menus.             
