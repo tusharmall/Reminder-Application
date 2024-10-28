@@ -9,11 +9,11 @@ Choose the day of the week and time for each activity.
 A sound/chime notification plays when the scheduled time is reached.
 Simple and intuitive UI using dropdown menus for ease of use.
 
-![Screenshot 2024-09-25 205401](https://github.com/user-attachments/assets/154de76a-c989-4a26-a6cc-70b16864d88a)
-![Screenshot 2024-09-25 205552](https://github.com/user-attachments/assets/e599b2f9-c59b-4b21-bb60-aead6747c1fd)
-![Screenshot 2024-09-25 205505](https://github.com/user-attachments/assets/6ae8f662-b6a9-4e8e-976a-4f024081fb8a)
-![Screenshot 2024-09-25 205445](https://github.com/user-attachments/assets/e82d8fcf-c69b-4849-9e29-bb8f81a45d43)
-![Screenshot 2024-09-25 205428](https://github.com/user-attachments/assets/cd9b9f6c-de95-4817-8d69-d2addbc35824)
+![Screenshot 2024-10-28 133003](https://github.com/user-attachments/assets/11de01ea-dc4b-41e2-bf9b-cd10e3a2ea15)
+![Screenshot 2024-10-28 132851](https://github.com/user-attachments/assets/d5ea94ba-3309-4890-b2e8-f2269ce8344f)
+![Screenshot 2024-10-28 132915](https://github.com/user-attachments/assets/f6314273-d059-4b8d-80c2-c4605d05fc70)
+![Screenshot 2024-10-28 132939](https://github.com/user-attachments/assets/9ee3103a-dd7f-4cd0-8bda-081c21adf336)
+![Screenshot 2024-10-28 133358](https://github.com/user-attachments/assets/23d0cf0a-8ee1-495e-acd9-c52a754458c8)
 
 
 # Predefined Activities:
