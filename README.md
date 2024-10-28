@@ -31,7 +31,7 @@ Simple and intuitive UI using dropdown menus for ease of use.
 # Tech Stack
 **Backend:** Spring Boot <br>
 **Frontend:** JSP, HTML, CSS<br>
-**Database:** H2 (In-Memory)<br>
+**Database:** H2 (In-Memory) and MySQL <br>
 **Validation:** Jakarta Bean Validation<br>
 **JPA:** Jakarta Persistence API<br>
 
