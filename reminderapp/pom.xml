@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.in28minutes.springboot</groupId>
-	<artifactId>myfirstapplication</artifactId>
+	<artifactId>Reminder-Application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>myfirstapplication</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Reminder-Application</name>
+	<description>Reminder-Application using Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
