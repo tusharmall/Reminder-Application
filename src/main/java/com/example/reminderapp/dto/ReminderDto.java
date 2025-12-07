@@ -1,27 +1,26 @@
-package com.example.reminderapp.model;
+package com.example.reminderapp.dto;
 
-import jakarta.persistence.*;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 import lombok.*;
+
 import java.time.LocalDateTime;
 
-@Entity
-@Table(name = "reminders")
 @Getter
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Reminder {
+public class ReminderDto {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @NotBlank(message = "title is required")
     private String title;
 
-    @Column(length = 2000)
     private String description;
 
+    @NotNull(message = "remindAt is required")
     private LocalDateTime remindAt;
 
     private boolean done;
